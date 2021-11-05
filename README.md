@@ -1,5 +1,5 @@
 # spaceX-mini-project
-it is a React application which uses SpaceX open source graphql APIs , uri: https://api.spacex.land/graphql/
+React application by using SpaceX graphql APIs , uri: https://api.spacex.land/graphql/
 
 # home Screenshots demo 
 
