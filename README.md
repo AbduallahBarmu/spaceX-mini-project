@@ -1,4 +1,8 @@
 # spaceX-mini-project
+
+live show : https://spacex-mini.herokuapp.com/
+
+
 React application by using SpaceX graphql APIs , uri: https://api.spacex.land/graphql/
 
 # home Screenshots demo 
